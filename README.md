@@ -12,6 +12,7 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 ### Twitter posting
 [Day 1](https://twitter.com/Josebis1990/status/1209173928524079104) |
 [Day 2](https://twitter.com/Josebis1990/status/1209589762140594183) |
+[Day 3](https://twitter.com/Josebis1990/status/1211368711053094913) |
 
 
 ### Why I want to do it?
