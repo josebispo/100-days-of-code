@@ -13,6 +13,7 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 [Day 1](https://twitter.com/Josebis1990/status/1209173928524079104) |
 [Day 2](https://twitter.com/Josebis1990/status/1209589762140594183) |
 [Day 3](https://twitter.com/Josebis1990/status/1211368711053094913) |
+[Day 4](https://twitter.com/Josebis1990/status/1212564166805987329) |
 
 
 ### Why I want to do it?
