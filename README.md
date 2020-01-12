@@ -17,9 +17,10 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 [Day 5](https://twitter.com/Josebis1990/status/1213592804653441024) |
 [Day 6](https://twitter.com/Josebis1990/status/1214355093040046082) |
 [Day 7](https://twitter.com/Josebis1990/status/1215431281774944258) |
+[Day 8](https://twitter.com/Josebis1990/status/1216183978975289346) |
 
 
 ### Why I decided to do it?
 
-> I decided to improve my skills for next year, I did it in English, but now I'm ready to do the same as a developer
-I believe this is an opportunity to prove to myself that I have enough capacity and discipline to complete this challenge.
+>  I decided to improve my developer skills for 2020, now I'm feeling ready to do as a ninja developer
+  I believe this is an opportunity to prove to myself that I have enough capacity and discipline to complete this challenge and take it further.
