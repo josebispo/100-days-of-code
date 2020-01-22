@@ -19,7 +19,8 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 [Day 7](https://twitter.com/Josebis1990/status/1215431281774944258) |
 [Day 8](https://twitter.com/Josebis1990/status/1216183978975289346) |
 [Day 9](https://twitter.com/Josebis1990/status/1216481462427488257) |
-[Day 10](https://twitter.com/Josebis1990/status/1216481462427488257) |
+[Day 10](https://twitter.com/Josebis1990/status/1219964726760869898) |
+[Day 11](https://twitter.com/Josebis1990/status/1219984301145645057) |
 
 
 ### Why I decided to do it?
