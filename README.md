@@ -23,6 +23,7 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 [Day 11](https://twitter.com/Josebis1990/status/1219984301145645057) |
 [Day 12](https://twitter.com/Josebis1990/status/1224413703120064513) |
 [Day 13](https://twitter.com/Josebis1990/status/1225162261930500097) |
+[Day 14](https://twitter.com/Josebis1990/status/1251169853936934918) |
 
 
 ### Why I decided to do it?
