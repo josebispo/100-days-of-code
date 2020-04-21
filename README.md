@@ -24,6 +24,7 @@ Challenge being fulfilled by: [José Bispo](https://github.com/josebispo)
 [Day 12](https://twitter.com/Josebis1990/status/1224413703120064513) |
 [Day 13](https://twitter.com/Josebis1990/status/1225162261930500097) |
 [Day 14](https://twitter.com/Josebis1990/status/1251169853936934918) |
+[Day 15](https://twitter.com/Josebis1990/status/1252404230897336320) |
 
 
 ### Why I decided to do it?
